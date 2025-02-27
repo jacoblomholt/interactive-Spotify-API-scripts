@@ -1,5 +1,8 @@
 # interactive-Spotify-API-scripts
 
+Functionality:
+Very simple scripts using the Spotify Web API. As of right now, it requires you setting up a .env file in the directory with a client_id and client_secret from https://developer.spotify.com. 
+
 This program needs the following packages:
  - python-dotenv
  - requests
